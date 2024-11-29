@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 nice game
+=======
+test
+local dev 1
+>>>>>>> dev
 remote dev 1
