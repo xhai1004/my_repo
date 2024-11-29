@@ -1,2 +1,4 @@
 nice game
+test
+local dev 1
 remote dev 1
